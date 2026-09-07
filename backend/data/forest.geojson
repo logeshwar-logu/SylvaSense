@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[76.03200000000001, 11.5854], [76.232, 11.5854], [76.232, 11.7854], [76.03200000000001, 11.7854], [76.03200000000001, 11.5854]]]}, "properties": {"id": "F-WAYANAD-01", "name": "Wayanad Forest Reserve", "area_ha": 48600}}]}
